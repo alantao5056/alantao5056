@@ -7,7 +7,7 @@
 - 💬 Ask me about data structures and algorithms
 - 📫 How to reach me: alantaoyt@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play badminton in my free time
+- ⚡ Fun fact: I play badminton during my free time
 <br>
 
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alantao5056&show_icons=true&theme=dracula)
