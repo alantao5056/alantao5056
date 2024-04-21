@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on any projects involving algorithms
 - 🤔 I’m looking for help with artificial intelligence
 - 💬 Ask me about data structures and algorithms
-- 📫 How to reach me: alantaoyt@gmail.com
+- 📫 How to reach me: alantaolr@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play badminton during my free time
 <br>
