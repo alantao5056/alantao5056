@@ -1,7 +1,7 @@
 ### Hi, I'm Alan Tao!
 
 - 🔭 I’m currently working on USACO Gold competitions
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning data science
 - 👯 I’m looking to collaborate on any projects involving algorithms
 - 🤔 I’m looking for help with artificial intelligence
 - 💬 Ask me about data structures and algorithms
